@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 ⌨️
 
-We're here to create a mechanical keyboard that runs on Nerves!
+We're here to create mechanical keyboards that runs on Nerves!
+
+Come chat with us in the `#nerves-keyboard` channel on [https://elixir-slackin.herokuapp.com/](Elixir Slack)!
 
 <!--
 
